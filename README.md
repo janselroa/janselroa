@@ -2,7 +2,6 @@
 <h3 align="center">i am software developer junior</h3>
 
 <h3>Sobre mi</h3>
-<p>cuarentena, un ordenador, Internet y mi curiosidad hizo que entrara en un curso de Python y desde ahí🤓 ... no quise parar.</p>
 <p>Me apaciona la informatica, programacion etc.., me gusta siempre probar cosas nuevas, aprender</p>
 
 
