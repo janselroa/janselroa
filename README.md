@@ -2,7 +2,7 @@
 <h3 align="center">i am software developer junior</h3>
 
 <h3>Sobre mi</h3>
-<p>Hola, que tal mi nombre es Jansel Roa y me apacionan las matematicas, la ciencia y principalmente la programgramacion, me gusta probar y aprender cosas nuevas</p>
+<p>Hola, que tal mi nombre es Jansel Roa y me apasionan las matematicas, la ciencia y principalmente la programación, me gusta probar y aprender cosas nuevas</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
