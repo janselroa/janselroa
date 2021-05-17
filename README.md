@@ -8,7 +8,8 @@ Since the last year and a half, I have not stopped learning and moving forward.
 love hardware.</p>
 <p>
 I have a special interest in backend and mobile
-and games</p>
+and games
+</p>
 
 ####  Languages and tools
 My main language is Python and SQL, however I also manage some basic javascript 
