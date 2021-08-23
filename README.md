@@ -4,23 +4,57 @@
 <h2>about me</h2>
 <p>I am a young self-taught man with a passion for programming and computing in general,location <a href="https://es.wikipedia.org/wiki/Rep%C3%BAblica_Dominicana">Dominican Republic </a>in the town Santo Domingo</p>
 <br><br>
+
+```py
+class About_Me:
+    def __init__(): 
+        self.name = 'janselroa'
+        self.location = 'Santo Domingo'
+        self.learning = ['SASS','JAVASCRIPT','DJANGO','SQL']
+        
+    def contacto():
+          print("me puedes contactar por email")
+          print(f"{self.name}2424@gmail.com")
+    
+    def __str__(self):
+          return f"name: {self.name}\nlocation: {self.location}\nlearning {self.learning}"
+```
 <h3>knowledge and skills</h3>
-<img src="assets/python.jpg" width="60">
-<img src="assets/flask.jpg" width="70" height="60">
-<img src="assets/css.jpg" width="100" height="60" style="object-fit:cover;">
-<img src="assets/html.jpg" width="100" height="60" style="object-fit:contain;">
-
-<img src="assets/powershell.jpg" width="100" height="60" style="object-fit:cover;">
-<br><br><br>
-<h3>I am learning</h3>
-
-<img src="assets/ingles.jpg" width="100" height="60" style="object-fit:cover;">
-
-<img src="assets/js.jpg" width="100" height="60" style="object-fit:contain;">
-
-<img src="assets/django.jpg" width="100" height="60" style="object-fit:contain;">
-
+<table>
+  <tbody><tr>
+    <th>Lenguajes</th>
+    <th>Librerías<br>Frameworks</th>
+    <th>Bases de Datos</th>
+    <th>Herramientas</th>
+  </tr>
+  <tr>
+    <td>
+      css(technology for web)<br>
+      Python<br>
+      powerhsell<br>
+      C/C++
+    </td>
+    <td>
+      Bootstrap
+      Django<br>
+      Flask
+    </td>
+    <td>
+      Firebase<br>
+      MongoDB<br>
+      PostgreSQL<br>
+      SQLite
+    </td>
+    <td>
+      Git/Github<br>
+      Terminal
+      SASS
+    </td>
+  </tr>
+</tbody></table>
+<br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janselroa&show_icons=true&locale=en" alt="janselroa" /></p>
 <br><br>
 <h3>Some projects</h3>
-<a href="https://github.com/janselroa/web-clima"></a>
+<a href="https://github.com/janselroa/web-clima">web-clima</a><br>
+<a href="https://github.com/janselroa/cat-web">cat-web</a>
