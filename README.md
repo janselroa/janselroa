@@ -1,4 +1,4 @@
-<h1 align="center">Hello World <img src="assets/planeta.jpg" width="60" height-"60"></h1>
+<h1 align="center">Hello World <img src="https://pandanna.com/wp-content/uploads/2019/07/Portada-planeta-Tierra-720x380.png" width="60" height-"60"></h1>
 <h2 align="center">I,am software developer junior</h2>
 <br><br>
 <h2>about me</h2>
