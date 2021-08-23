@@ -35,7 +35,7 @@ class About_Me:
       C/C++
     </td>
     <td>
-      Bootstrap
+      Bootstrap<br>
       Django<br>
       Flask
     </td>
@@ -47,7 +47,7 @@ class About_Me:
     </td>
     <td>
       Git/Github<br>
-      Terminal
+      Terminal<br>
       SASS
     </td>
   </tr>
