@@ -1,5 +1,5 @@
 <h1 align="center">Hello World <img src="https://pandanna.com/wp-content/uploads/2019/07/Portada-planeta-Tierra-720x380.png" width="60" height-"60"></h1>
-<h2 align="center">I,am software developer junior</h2>
+<h2 align="center">I'm software developer junior</h2>
 <br><br>
 <h2>about me</h2>
 <p>I am a young self-taught man with a passion for programming and computing in general,location <a href="https://es.wikipedia.org/wiki/Rep%C3%BAblica_Dominicana">Dominican Republic </a>in the town Santo Domingo</p>
