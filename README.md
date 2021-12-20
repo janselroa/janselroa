@@ -2,7 +2,7 @@
 <h2 align="center">I'm software developer junior</h2>
 <br><br>
 <h2>about me</h2>
-<p>I am a young self-taught man with a passion for programming and computing in general,location <a href="https://es.wikipedia.org/wiki/Rep%C3%BAblica_Dominicana">Dominican Republic </a>in the town Santo Domingo</p>
+<p>I am a young self-taught man with a passion for programming and computing in general,location <a href="https://es.wikipedia.org/wiki/Rep%C3%BAblica_Dominicana">Dominican Republic </a>in the town Santo Domingo, more inforkation in my <a href="https://portafoliojanselroa.herokuapp.com/" target="_blank">porfolio</a></p>
 <br><br>
 
 ```py
