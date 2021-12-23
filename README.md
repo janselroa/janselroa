@@ -1,60 +1,32 @@
-<h1 align="center">Hello World <img src="https://pandanna.com/wp-content/uploads/2019/07/Portada-planeta-Tierra-720x380.png" width="60" height-"60"></h1>
-<h2 align="center">I'm software developer junior</h2>
-<br><br>
-<h2>about me</h2>
-<p>I am a young self-taught man with a passion for programming and computing in general,location <a href="https://es.wikipedia.org/wiki/Rep%C3%BAblica_Dominicana">Dominican Republic </a>in the town Santo Domingo, more inforkation in my <a href="https://portafoliojanselroa.herokuapp.com/" target="_blank">porfolio</a></p>
-<br><br>
+<h1 align="center">Hi 👋, I'm Jansel Roa</h1>
+<h3 align="center">A passionate Fullstack developer from Dominican Republic</h3>
 
-```py
-class About_Me:
-    def __init__(): 
-        self.name = 'janselroa'
-        self.location = 'Santo Domingo'
-        self.learning = ['SASS','JAVASCRIPT','DJANGO','SQL']
-        
-    def contacto():
-          print("me puedes contactar por email")
-          print(f"{self.name}2424@gmail.com")
-    
-    def __str__(self):
-          return f"name: {self.name}\nlocation: {self.location}\nlearning {self.learning}"
-```
-<h3>knowledge and skills</h3>
-<table>
-  <tbody><tr>
-    <th>Lenguajes</th>
-    <th>Librerías<br>Frameworks</th>
-    <th>Bases de Datos</th>
-    <th>Herramientas</th>
-  </tr>
-  <tr>
-    <td>
-      css(technology for web)<br>
-      Python<br>
-      powerhsell<br>
-      C/C++
-    </td>
-    <td>
-      Bootstrap<br>
-      Django<br>
-      Flask
-    </td>
-    <td>
-      Firebase<br>
-      MongoDB<br>
-      PostgreSQL<br>
-      SQLite
-    </td>
-    <td>
-      Git/Github<br>
-      Terminal<br>
-      SASS
-    </td>
-  </tr>
-</tbody></table>
-<br><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=janselroa&label=Profile%20views&color=0e75b6&style=flat" alt="janselroa" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=janselroa" alt="janselroa" /></a> </p>
+
+- Hi, I'm Jansel Roa more about information in [my portfolio](https://github.com/janselroa/portafoliohttps://github.com/janselroa/portafolio)
+
+- 📖Learning **Vuejs, nodejs and express**
+
+- 💬 Ask me about **python, flask, css, javascript**
+- 🥷knowledge of good practices and architectures such as mvc and rest
+- 📚constantly learning
+- 💻🥷interested in backend and systems
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/https://dev.to/janselroa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/janselroa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/janselroa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janselroa" height="30" width="40" /></a>
+<a href="https://codesandbox.com/janselroa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="janselroa" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/dzsa2PG6Cw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/dzsa2PG6Cw" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janselroa&show_icons=true&locale=en&layout=compact" alt="janselroa" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janselroa&show_icons=true&locale=en" alt="janselroa" /></p>
-<br><br>
-<h3>Some projects</h3>
-<a href="https://github.com/janselroa/web-clima">web-clima</a><br>
-<a href="https://github.com/janselroa/cat-web">cat-web</a>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janselroa&" alt="janselroa" /></p>
