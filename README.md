@@ -38,6 +38,10 @@ y tengo bastante experiencia con tecnologias y stacks como JavaScript, y el stac
     <td>Arquitecturas y patrones como MVC, REST, etc</td>
   </tr>
 </table>
+### Servicios
+Ofrezco servicios de desarrollo web en:
+   https://www.freelancer.com/u/janselroa
+   https://es.fiverr.com/jansel_roa/desarrollare-sitios-y-aplicaciones-webs-de-diversa-indole
 <p>Si quieres saber mas de mi puedes encontrarme en diversar redes sociales como @janselroa o puede encontrarme en discord con el id Jansel#8403</p>
 <h2>Estadisticas de github<h2>
   
